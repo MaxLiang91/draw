@@ -1,56 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T13:19:39.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="n6zYe9Vc2tRCw-GgRNJy" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T13:25:23.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="ZIwUt2Onvs3dAmSOK-3v" version="21.5.2" type="github">
   <diagram name="第 1 页" id="61HSVzilRYh9v3FZqo0w">
-    <mxGraphModel dx="1392" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RQQAjUI5k8xgZHzXDdDN-1" target="RQQAjUI5k8xgZHzXDdDN-2">
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RQQAjUI5k8xgZHzXDdDN-1" target="RQQAjUI5k8xgZHzXDdDN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-1" value="饥饿 - 食物系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-1" value="饥饿 - 食物系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-2" value="复制人死亡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-2" value="复制人死亡" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RQQAjUI5k8xgZHzXDdDN-6" target="RQQAjUI5k8xgZHzXDdDN-1">
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RQQAjUI5k8xgZHzXDdDN-6" target="RQQAjUI5k8xgZHzXDdDN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RQQAjUI5k8xgZHzXDdDN-6" target="RQQAjUI5k8xgZHzXDdDN-12">
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="RQQAjUI5k8xgZHzXDdDN-6" target="RQQAjUI5k8xgZHzXDdDN-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-6" value="建造设施&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;生产资源&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-6" value="建造设施&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;生产资源&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RQQAjUI5k8xgZHzXDdDN-10" target="RQQAjUI5k8xgZHzXDdDN-1">
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RQQAjUI5k8xgZHzXDdDN-10" target="RQQAjUI5k8xgZHzXDdDN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-10" value="探索地图&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;寻找资源&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-10" value="探索地图&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;寻找资源&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RQQAjUI5k8xgZHzXDdDN-12" target="RQQAjUI5k8xgZHzXDdDN-13">
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RQQAjUI5k8xgZHzXDdDN-12" target="RQQAjUI5k8xgZHzXDdDN-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-12" value="玩家规划任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-12" value="玩家规划任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RQQAjUI5k8xgZHzXDdDN-13" target="RQQAjUI5k8xgZHzXDdDN-14">
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RQQAjUI5k8xgZHzXDdDN-13" target="RQQAjUI5k8xgZHzXDdDN-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RQQAjUI5k8xgZHzXDdDN-13" target="RQQAjUI5k8xgZHzXDdDN-6">
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RQQAjUI5k8xgZHzXDdDN-13" target="RQQAjUI5k8xgZHzXDdDN-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RQQAjUI5k8xgZHzXDdDN-13" target="RQQAjUI5k8xgZHzXDdDN-10">
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RQQAjUI5k8xgZHzXDdDN-13" target="RQQAjUI5k8xgZHzXDdDN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-13" value="复制人执行任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-13" value="复制人执行任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RQQAjUI5k8xgZHzXDdDN-14" target="RQQAjUI5k8xgZHzXDdDN-10">
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RQQAjUI5k8xgZHzXDdDN-14" target="RQQAjUI5k8xgZHzXDdDN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQQAjUI5k8xgZHzXDdDN-14" value="资源供给" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="RQQAjUI5k8xgZHzXDdDN-14" value="资源供给" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
