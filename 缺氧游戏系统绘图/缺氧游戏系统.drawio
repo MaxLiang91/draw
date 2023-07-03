@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T14:17:12.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="id0E_EXK4YN02EFaA05H" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-03T14:28:57.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="pw8uJPYjvSTN1hEw17iy" version="21.5.2" type="github">
   <diagram name="第 1 页" id="61HSVzilRYh9v3FZqo0w">
-    <mxGraphModel dx="2019" dy="1116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1683" dy="930" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,23 +67,78 @@
         <mxCell id="jsDxv2tLhqo4XAbgUIIQ-3" value="无法执行任务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-1" target="RQQAjUI5k8xgZHzXDdDN-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-1" target="jsDxv2tLhqo4XAbgUIIQ-4">
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-1" target="jsDxv2tLhqo4XAbgUIIQ-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-25" value="限时解决" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jsDxv2tLhqo4XAbgUIIQ-24">
+          <mxGeometry x="-0.1" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jsDxv2tLhqo4XAbgUIIQ-1" value="复制人压力过高" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="838" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-4" value="士气、属性、特质" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-4" target="jsDxv2tLhqo4XAbgUIIQ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-7" value="丧失行动力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-10" value="吃喝拉撒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="323" width="120" height="60" as="geometry" />
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-4" target="jsDxv2tLhqo4XAbgUIIQ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-4" value="士气、属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-7" target="jsDxv2tLhqo4XAbgUIIQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-7" value="其它" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-10" target="jsDxv2tLhqo4XAbgUIIQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-10" target="jsDxv2tLhqo4XAbgUIIQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-10" value="吃喝拉撒" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-11" target="jsDxv2tLhqo4XAbgUIIQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-11" target="jsDxv2tLhqo4XAbgUIIQ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jsDxv2tLhqo4XAbgUIIQ-11" value="环境交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="417" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jsDxv2tLhqo4XAbgUIIQ-13" target="RQQAjUI5k8xgZHzXDdDN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-27" value="影响资源产出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jsDxv2tLhqo4XAbgUIIQ-26">
+          <mxGeometry x="0.0781" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-13" value="影响复制人的能力和建造速度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="838" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-15" value="气体、液体、温度、植物、辐射、动物、噪声" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-17" value="专用设施" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsDxv2tLhqo4XAbgUIIQ-31" value="特质和技能系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
